@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bumble-beed
+- 👋 Hi, I’m Shirleen @bumble-beed
 - 👀 I’m interested in learning coding, QA, testing and automation
 - 🌱 I’m currently learning - bootcamp!
 - 💞️ I’m looking to collaborate on not much right now, just started out so its all new and shiny
